@@ -21,13 +21,12 @@ Homogeneidade: Captura a proximidade da distribuição de elementos na matriz.
 
 No projeto, o GLCM foi implementado usando a biblioteca mahotas, com configurações padrão para direção e distância.
 
-# Repositório do projeto
-(Link do repositório do projeto)
 
 # Classicador e acurácia
 Foram testados quatro classificadores com as características extraídas pelo GLCM:
 
-(colocar a tabela do resultado)
+![image](https://github.com/user-attachments/assets/4e4dc805-4646-41e0-95d5-41c57b9b71f8)
+
 
 # Instruções de uso (opcional)
 1. Pré-requisitos
